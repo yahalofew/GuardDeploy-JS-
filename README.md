@@ -131,18 +131,23 @@ http://localhost:5173
 ## 📸 Screenshots
 
 **หน้าหลัก**
+
 <img width="800" alt="page first" src="https://github.com/user-attachments/assets/fbbdf603-4319-473c-a8d6-43eb1e7c26dd" />
 
 **ส่วนเพิ่มเจ้าหน้าที่**
+
 <img width="800" alt="Additional staff" src="https://github.com/user-attachments/assets/2aab9964-c4d7-4a3c-8969-9ec410ba525d" />
 
 **เลือกจุดบนแผนที่**
+
 <img width="800" alt="point on map" src="https://github.com/user-attachments/assets/bffef414-ee90-463a-b1f0-57b310f2998e" />
 
 **เพิ่มจุดการทำงาน**
+
 <img width="800" alt="add work points" src="https://github.com/user-attachments/assets/cca0a109-bdc8-4560-9db0-fa33963474f8" />
 
 **ลากเจ้าที่ประจำตำแหน่ง**
+
 <img width="800" alt="drag place" src="https://github.com/user-attachments/assets/214fbf54-3239-4e97-87a9-9020d4a7a132" />
 
 ---
